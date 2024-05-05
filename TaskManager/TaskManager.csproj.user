@@ -7,33 +7,33 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="AddTask.xaml.cs">
+    <Compile Update="Views\AddTask.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="AddUser.xaml.cs">
+    <Compile Update="Views\AddUser.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="ShowAllUsers.xaml.cs">
+    <Compile Update="Views\ShowAllUsers.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="TaskDetails.xaml.cs">
+    <Compile Update="Views\TaskDetails.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="AddTask.xaml">
+    <Page Update="Views\AddTask.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="AddUser.xaml">
+    <Page Update="Views\AddUser.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="Views\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="ShowAllUsers.xaml">
+    <Page Update="Views\ShowAllUsers.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="TaskDetails.xaml">
+    <Page Update="Views\TaskDetails.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

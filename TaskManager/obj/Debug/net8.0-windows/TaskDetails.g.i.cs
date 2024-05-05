@@ -77,7 +77,7 @@ namespace BankApplication {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TaskManager;component/taskdetails.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TaskManager;V1.0.0.0;component/taskdetails.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TaskDetails.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

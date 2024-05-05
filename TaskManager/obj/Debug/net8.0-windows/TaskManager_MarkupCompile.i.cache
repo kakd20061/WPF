@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\gizar\Desktop\BankApplication\TaskManager\App.xaml
-5-941105589
+5-1089486296
 
-211353496522
+28-415794646
 20997503736
-AddTask.xaml;AddUser.xaml;MainWindow.xaml;ShowAllUsers.xaml;TaskDetails.xaml;
+Views\AddTask.xaml;Views\AddUser.xaml;Views\MainWindow.xaml;Views\ShowAllUsers.xaml;Views\TaskDetails.xaml;
 
 False
 

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gizar\\Desktop\\BankApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\taskdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\taskdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\views\\taskdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\taskdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\viewmodels\\showallusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\viewmodels\\showallusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\views\\taskdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\taskdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\showallusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\showallusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\addtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\addtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|c:\\users\\gizar\\desktop\\bankapplication\\taskmanager\\viewmodels\\taskdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FAC551-D891-4FA8-92AF-464442DD2E41}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\viewmodels\\taskdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,78 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskDetails.xaml",
-              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\TaskDetails.xaml",
-              "RelativeDocumentMoniker": "TaskManager\\TaskDetails.xaml",
-              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\TaskDetails.xaml",
-              "RelativeToolTip": "TaskManager\\TaskDetails.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T20:01:18.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShowAllUsers.xaml",
-              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\ShowAllUsers.xaml",
-              "RelativeDocumentMoniker": "TaskManager\\ShowAllUsers.xaml",
-              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\ShowAllUsers.xaml",
-              "RelativeToolTip": "TaskManager\\ShowAllUsers.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T17:58:16.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "TaskManager\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\MainWindow.xaml",
-              "RelativeToolTip": "TaskManager\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T17:51:27.116Z",
+              "Title": "TaskDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\ViewModels\\TaskDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\ViewModels\\TaskDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\ViewModels\\TaskDetailsViewModel.cs",
+              "RelativeToolTip": "TaskManager\\ViewModels\\TaskDetailsViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:32:59.57Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddUser.xaml",
-              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\AddUser.xaml",
-              "RelativeDocumentMoniker": "TaskManager\\AddUser.xaml",
-              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\AddUser.xaml",
-              "RelativeToolTip": "TaskManager\\AddUser.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T12:36:31.667Z",
+              "Title": "ShowAllUsersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\ViewModels\\ShowAllUsersViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\ViewModels\\ShowAllUsersViewModel.cs",
+              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\ViewModels\\ShowAllUsersViewModel.cs",
+              "RelativeToolTip": "TaskManager\\ViewModels\\ShowAllUsersViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:10:41.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\App.xaml",
-              "RelativeDocumentMoniker": "TaskManager\\App.xaml",
-              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\App.xaml",
-              "RelativeToolTip": "TaskManager\\App.xaml",
+              "DocumentIndex": 2,
+              "Title": "TaskDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\Views\\TaskDetails.xaml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\TaskDetails.xaml",
+              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\Views\\TaskDetails.xaml",
+              "RelativeToolTip": "TaskManager\\Views\\TaskDetails.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T12:33:28.796Z",
+              "WhenOpened": "2024-05-05T19:41:51.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddTask.xaml",
-              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\AddTask.xaml",
-              "RelativeDocumentMoniker": "TaskManager\\AddTask.xaml",
-              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\AddTask.xaml",
-              "RelativeToolTip": "TaskManager\\AddTask.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-28T12:25:36.774Z",
+              "DocumentIndex": 0,
+              "Title": "TaskDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\Views\\TaskDetails.xaml.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\TaskDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\gizar\\Desktop\\BankApplication\\TaskManager\\Views\\TaskDetails.xaml.cs",
+              "RelativeToolTip": "TaskManager\\Views\\TaskDetails.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:29:40.836Z",
               "EditorCaption": ""
             }
           ]

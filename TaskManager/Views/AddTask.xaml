@@ -1,0 +1,54 @@
+﻿<Window x:Class="BankApplication.AddTask"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BankApplication"
+        mc:Ignorable="d"
+        Title="AddTask" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Label Content="Task Preview" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20" FontFamily="Bahnschrift Light"/>
+
+            <Label Grid.Row="1" Content="Title:" FontFamily="Bahnschrift Light"/>
+            <TextBlock Grid.Row="1" Margin="100,0,0,0" Text="{Binding task.Title}" FontFamily="Bahnschrift Light" VerticalAlignment="Center"/>
+
+            <Label Grid.Row="2" Content="Description:" FontFamily="Bahnschrift Light"/>
+            <TextBlock Grid.Row="2" Margin="100,0,0,0" Text="{Binding task.Description}" FontFamily="Bahnschrift Light" VerticalAlignment="Center"/>
+        </Grid>
+        <Grid  Grid.Row="1" Margin="0,20,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Content="Title:" FontFamily="Bahnschrift Light" VerticalAlignment="Center"/>
+            <TextBox Grid.Row="0" Margin="100,0,116,0" Text="{Binding task.Title, UpdateSourceTrigger=PropertyChanged}" FontFamily="Bahnschrift Light" Grid.RowSpan="1"/>
+
+            <Label Grid.Row="2" Content="Description:" FontFamily="Bahnschrift Light"/>
+            <TextBox Margin="100,0,116,0" Text="{Binding task.Description, UpdateSourceTrigger=PropertyChanged}" FontFamily="Bahnschrift Light" Grid.Row="2"/>
+        </Grid>
+        <Button Grid.Row="2" Content="Save" HorizontalAlignment="Center" Command="{Binding AddTaskCommand}" Margin="0,36,0,-46" Width="166" FontFamily="Bahnschrift Light" BorderBrush="Black" Background="White">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Rectangle Height="1" Margin="-10,17,10,0" Grid.Row="2" Stroke="Black" VerticalAlignment="Top" Fill="Black"/>
+        <Rectangle Height="1" Margin="0,5,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Fill="Black"/>
+        <Rectangle Height="1" Margin="0,31,0,0" Stroke="Black" VerticalAlignment="Top" Fill="Black"/>
+    </Grid>
+</Window>
